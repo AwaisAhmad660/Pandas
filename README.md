@@ -1,6 +1,3 @@
-Pandas Basic to Advance
----
-
 ## 🔥 Pandas ESSENTIALS for Data Analysis
 
 ### 1️⃣ Data Loading
